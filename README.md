@@ -1,2 +1,2 @@
-# rest-query-parser
-Parser for complex qureries
+# REST query parser
+Parser for complex rest queries
